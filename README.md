@@ -3,7 +3,7 @@ JAYMIAN TURNER, 2024
 ===============
 
 This Virtual Synthesiser was made for a school project.
-Written in C++, with help from the JUCE library
+Written in C++, with help from the JUCE API
 
 !!JUCE 6 or above is required!! (JUCER file provided)
 
