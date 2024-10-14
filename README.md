@@ -7,6 +7,8 @@ Written in C++, with help from the JUCE API
 
 !!JUCE 6 or above is required!! (JUCER file provided)
 
+when the JUCER file is opened with PROJUCER, the required libraries should automatically be added when exporting
+
 # VERSION HISTORY-
 ===============
 
