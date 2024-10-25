@@ -1,5 +1,4 @@
 # MULTIPLE OSCILLATOR VIRTUAL SYNTHESISER (M.O.V.S.)
-JAYMIAN TURNER, 2024
 ===============
 
 This Virtual Synthesiser was made for a school project.
